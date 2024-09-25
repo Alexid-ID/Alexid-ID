@@ -1,4 +1,5 @@
 # 🕯️ Hi, I’m Alexid!
+![Profile views](https://komarev.com/ghpvc/?username=Alexid-ID)
 
 ```python
 class Alexid:
