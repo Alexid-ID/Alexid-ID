@@ -5,7 +5,7 @@ class Alexid:
   def __init__(self):
     self.university = "TDTU"
     self.pronouns = "she/her"
-    self.hobbies = ["language", "programming", "music", "reading"]
+    self.hobbies = ["language", "programming", "music", "drawing"]
     self.languages = {
       "Vietnamese": "Native",
       "English": "Medium",
