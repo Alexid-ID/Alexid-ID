@@ -20,4 +20,4 @@ class Alexid:
 * [EI-POS](https://github.com/Alexid-ID/phone-store-nodejs) - A POS system for a phone store
 * [Book Finder](https://github.com/Alexid-ID/bookstore) - Web SPA for searching books
 * [WSChat](https://github.com/Alexid-ID/ws-app-chat) - A chat application using WebSocket
-* [Todo App](https://github.com/Alexid-ID/todoapp-reactjs) - A simple todo app using ReactJS
+* [Todo App](https://todoapp-reactjs-eta.vercel.app/) - A simple todo app using ReactJS
